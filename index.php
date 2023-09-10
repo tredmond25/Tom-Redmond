@@ -13,7 +13,7 @@
     <main>
         <h1>Why Coporate America Should Adopt the Human Powered Business model</h1>
         <section>
-            <h2>What is the Human Powered Business model?<h/2>
+            <h2>What is the Human Powered Business model?</h2>
             <p>The term "human-powered business model" typically refers to a business approach that places a strong emphasis on human labor, creativity, and expertise as central components of its operations and value proposition. In such a model, the human element is a key driver of the business's success and differentiation from competitors. Since people are at the forefront of a human-powered business model, their wellbeing should be at the center of the business decisions/ mission statement. Where wellbeing is defined as economic/ financial, social, environmental, and physical health. At the end of the day business is a people endeavor, people either move a business forward or backward so they should be well taken care of by the business.</p>
             <br>
             <p>Investing in practices that prioritize the wellbeing of people and the planet might appear expensive initially. However, when we consider the substantial costs associated with pressing issues like climate change, economic inequality, and systemic racial injustice, it becomes evident that these challenges are far more economically burdensome for both individual companies and society as a whole. In the long term, businesses that make substantial investments in promoting the welfare of both people and the environment tend to experience more robust growth, enhanced resilience, and improved financial performance overall.</p>
@@ -25,6 +25,7 @@
                 <li>Helps fight climate change</li>
                 <li>Helps fight racial inequality</li>
                 <li><cite>Smart my brain is (Chuckles like yoda)</cite></li>
+            </ul>
         </section>    
         <section>
             <h2>Key principles of a human powered business</h2>
@@ -54,9 +55,11 @@
                     <td colspan="3">Citations: <cite>My Brain</cite> 
                 </tr>
             </table>
+        </section>
         <figure>
             <img src="images/Human-Powered-Business.webp">
             <figcaption>Stock photo showing the connection of people</figcaption>
+        </figure>
     </main>
 
 </body>
