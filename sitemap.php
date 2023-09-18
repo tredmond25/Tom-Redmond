@@ -68,6 +68,7 @@
             <p></p>
         </section>
     </section>
+    <a href="lab3/wireframe.jpg">wireframe</a> 
     
 </body>
 
