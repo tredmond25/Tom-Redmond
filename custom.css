@@ -1,4 +1,139 @@
-body{
-    width: 90%;
-    margin: auto;
+:root {
+    --background-image: url("../images/Backround-image.jpg");
+    --main-bg-color: rgba(255, 255, 255, 0.8); 
+    --font-family: Arial, sans-serif;
+    --link-hover-color: #007bff; 
+  }
+  
+body {
+    background-image: var(--background-image);
+    background-size: cover;
+    font-family: var(--font-family);
+  }
+  
+main {
+    background-color: var(--main-bg-color);
+    padding: 20px; 
+    margin: 10px; 
+  }
+
+header {
+    color: white;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+  }
+
+h1 {
+    text-transform: uppercase;
+  }
+  
+p::first-line {
+    text-indent: 1em;
+  }
+
+p {
+    text-align: left;
+  }
+
+cite {
+    font-size: xx-small;
+  }
+  
+img {
+    max-width: 100%;
+  }
+  
+.rounded-image {
+    border-radius: 10px; 
+  }
+  
+figure {
+    border-radius: 10px; 
+    border: 1px solid #ccc; 
+    display: inline-block; 
+    width: 300px;
+    height: 200px;
+  }
+  
+figcaption {
+    font-style: italic;
+    text-align: center;
+    margin-top: 5px;
+  }
+  
+figure img,
+figure figcaption {
+    display: block;
+    margin: 0 auto;
+  }
+  
+.float-right {
+    float: right;
+    clear: right;
+    margin-left: 10px; 
+  }
+nav a:link{
+    background-color: #fff;
+    color: #009;
+    text-decoration: none;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+nav a {
+    display: inline-block;
+    width: 19%;
+}
+nav{
+    border: thin solid yellow;
+    background-color: white;
+    text-align: center;
+}
+ul li:nth-child(odd) {
+    background-color: #f2f2f2; 
+  }
+  
+ul li:nth-child(even) {
+    background-color: #e6e6e6; 
+  }
+  
+table caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center; 
+  }
+  
+table {
+    border: 2px solid #333; 
+    width: 80%; 
+    margin: 0 auto; 
+    align-self: center;
+  }
+  
+td, th {
+    border: 1px solid #ccc; 
+    padding: 8px; 
+  }
+  
+tr th {
+    background-color: #333;
+    color: white; 
+  }
+  
+body tr:nth-child(odd) {
+    background-color: #f2f2f2; 
+  }
+  
+body tr:nth-child(even) {
+    background-color: #e6e6e6; 
+  }
+
+.form p::first-line{
+    text-indent: 0;
+}
+.form {
+    width: 80%;
+    margin: 0 auto;
 }
