@@ -31,6 +31,22 @@
     <p><a href="ADMIN/code-viewer.php">Admin Page</a></p>
     <section class="lab-layout">
     <section class="lab-layout">
+    <h2 class="header">Lab Seven - Arrays and Includes.</h2>
+        <section class="public-files">
+            <h3>Public Files</h3>
+            <p><a href="lab7/index.php">Home page</a></p>
+        </section>
+
+        <section class="supporting-files">
+            <h3>Supporting files</h3>
+            <p><a href="lab7/css/custom.css">css style sheet</a></p>
+        </section>
+
+        <section class="grader-notes">
+            <h3>Notes to grader</h3>
+            <p></p>
+        </section>
+
         <h2 class="header">Lab Four - Styling your site.</h2>
         <section class="public-files">
             <h3>Public Files</h3>
